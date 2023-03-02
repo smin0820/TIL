@@ -11,3 +11,5 @@
 
 ## 에러 솔루션
 - [yarn start 후 App.js 수정 시 에러 문제 해결](https://github.com/smin0820/TIL/blob/main/%EC%97%90%EB%9F%AC%20%EC%86%94%EB%A3%A8%EC%85%98/yarn%20start%20%ED%9B%84%20app.js%20%EC%88%98%EC%A0%95%20%EC%8B%9C%20%EC%98%A4%EB%A5%98.md)
+
+- [CORS 에러](https://github.com/smin0820/TIL/blob/main/%EC%97%90%EB%9F%AC%20%EC%86%94%EB%A3%A8%EC%85%98/CORS%20%EC%97%90%EB%9F%AC.md)

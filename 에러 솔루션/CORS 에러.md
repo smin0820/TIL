@@ -11,9 +11,11 @@
 `type`이 `module`로 설정이된 `<script>`태그가 포함이된 HTML파일이 로컬에서 로드가될 경우 자바스크립트 모듈 보안 요구사항으로 인해 CORS 에러가 발생한다고 한다.
 
 ✏️**CORS**란?
+
 Cross Origin Resource Sharing
 
 ✏️**CORS**의 목적
+
 사용자의 데이터를 보호하기 위해 존재하며 이상한 출처의 리소스로 보내는 HTTP 및 HTTPS 요청을 제한하기 위해서다.
 
 # ✨해결 방법 (2 가지)
