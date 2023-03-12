@@ -12,8 +12,10 @@
 ## 리액트
 - [리액트란 무엇인가?](https://github.com/smin0820/TIL/blob/main/%EB%A6%AC%EC%95%A1%ED%8A%B8/%EB%A6%AC%EC%95%A1%ED%8A%B8%EB%9E%80%20%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80.md)
 
-## 에러 솔루션
-- [yarn start 후 App.js 수정 시 에러 문제 해결](https://github.com/smin0820/TIL/blob/main/%EC%97%90%EB%9F%AC%20%EC%86%94%EB%A3%A8%EC%85%98/yarn%20start%20%ED%9B%84%20app.js%20%EC%88%98%EC%A0%95%20%EC%8B%9C%20%EC%98%A4%EB%A5%98.md)
+- [라이브러리와 프레임워크의 차이](https://github.com/smin0820/TIL/blob/main/%EB%A6%AC%EC%95%A1%ED%8A%B8/%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC%EC%99%80%20%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC%EC%9D%98%20%EC%B0%A8%EC%9D%B4%EC%A0%90.md)
 
-- [CORS 에러](https://github.com/smin0820/TIL/blob/main/%EC%97%90%EB%9F%AC%20%EC%86%94%EB%A3%A8%EC%85%98/CORS%20%EC%97%90%EB%9F%AC.md)
+## 에러 솔루션
+- [ERROR in [eslint] Failed to load config "react-app" to extend from. Referenced frome](https://github.com/smin0820/TIL/blob/main/%EC%97%90%EB%9F%AC%20%EC%86%94%EB%A3%A8%EC%85%98/yarn%20start%20%ED%9B%84%20app.js%20%EC%88%98%EC%A0%95%20%EC%8B%9C%20%EC%98%A4%EB%A5%98.md)
+
+- [from origin 'null' has been blocked by CORS policy: Cross origin requesys are only supported for protocol schemes](https://github.com/smin0820/TIL/blob/main/%EC%97%90%EB%9F%AC%20%EC%86%94%EB%A3%A8%EC%85%98/CORS%20%EC%97%90%EB%9F%AC.md)
 
