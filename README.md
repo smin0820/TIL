@@ -16,6 +16,10 @@
 
 - [리액트 라우터](https://github.com/smin0820/TIL/blob/main/%EB%A6%AC%EC%95%A1%ED%8A%B8/%EB%A6%AC%EC%95%A1%ED%8A%B8%20%EB%9D%BC%EC%9A%B0%ED%84%B0.md)
 
+## 자바스크립트
+
+- [var, let, const 특징](https://github.com/smin0820/TIL/blob/main/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8/var%2C%20let%2C%20const%20%ED%8A%B9%EC%A7%95.md)
+
 ## 에러 솔루션
 - [ERROR in [eslint] Failed to load config "react-app" to extend from. Referenced frome](https://github.com/smin0820/TIL/blob/main/%EC%97%90%EB%9F%AC%20%EC%86%94%EB%A3%A8%EC%85%98/yarn%20start%20%ED%9B%84%20app.js%20%EC%88%98%EC%A0%95%20%EC%8B%9C%20%EC%98%A4%EB%A5%98.md)
 
